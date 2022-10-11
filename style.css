@@ -175,7 +175,7 @@ html{
 }
 
 #contact::before{
-    background: url('/Images/Contact logo/contact2.jpg')no-repeat center center/cover;
+    background: url('Images/Contact logo/contact2.jpg')no-repeat center center/cover;
     content: "";
     position: absolute;
     width: 100%;
