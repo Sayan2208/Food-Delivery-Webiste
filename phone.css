@@ -79,6 +79,7 @@
 /* Utility classes */
 .h-primary{
     font-size:26px;
+    padding-top: 0px;
 }
 .btn{
     font-size: 13px;

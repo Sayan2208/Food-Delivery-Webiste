@@ -83,8 +83,8 @@ html{
 #home::before{
     content: "";
     position: absolute;
-    background: url('/Images/Background/bg6.jpg')no-repeat center center/cover;
-    height: 38rem;
+    background: url('./Images/Background/bg6.jpg')no-repeat center center/cover;
+    height: 40.5rem;
     width: 100%;
     top: 0px;
     left: 0px;
@@ -149,7 +149,7 @@ html{
 /* Clients Section */
 
 #clients-section{
-    background: url('/Images/Background/c_bg.png') no-repeat center center/cover;
+    background: url('./Images/Background/c_bg.png') no-repeat center center/cover;
     height: 400px;
 }
 
@@ -175,7 +175,7 @@ html{
 }
 
 #contact::before{
-    background: url('Images/Contact logo/contact2.jpg')no-repeat center center/cover;
+    background: url('./Images/Contact logo/contact2.jpg')no-repeat center center/cover;
     content: "";
     position: absolute;
     width: 100%;
@@ -231,7 +231,8 @@ footer{
 
 .h-primary{
     font-size: 3.8rem;
-    padding: 12px;
+    padding: 0px 12px;
+    padding-top: 41px;
     font-family: 'Bree Serif', serif;
 }
 
